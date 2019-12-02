@@ -1,0 +1,142 @@
+[
+    {
+        "name": "福",
+        "question": "以下不属于我国年画重要产地的是？",
+        "answer": [
+            {
+                "title": "苏州桃花坞",
+                "only": null,
+                "type": "A"
+            },
+            {
+                "title": "天津杨柳青",
+                "only": null,
+                "type": "B"
+            },
+            {
+                "title": "四川攀枝花",
+                "only": null,
+                "type": "C"
+            },
+            {
+                "title": "山东潍坊",
+                "only": null,
+                "type": "D"
+            }
+        ],
+        "ok": "C",
+        "flag":null
+    },
+    {
+        "name": "禄",
+        "question": "春节贴“福”字有什么习俗？",
+        "answer": [
+            {
+                "title": "斜着贴",
+                "only": null,
+                "type": "A"
+            },
+            {
+                "title": "倒着贴",
+                "only": null,
+                "type": "B"
+            },
+            {
+                "title": "竖着贴",
+                "only": null,
+                "type": "C"
+            },
+            {
+                "title": "正着贴",
+                "only": null,
+                "type": "D"
+            }
+        ],
+        "ok": "B",
+        "flag":null
+    },
+    {
+        "name": "寿",
+        "question": "以下哪个是春节正月初二的习俗",
+        "answer": [
+            {
+                "title": "逛庙会",
+                "only": null,
+                "type": "A"
+            },
+            {
+                "title": "回娘家",
+                "only": null,
+                "type": "B"
+            },
+            {
+                "title": "大扫除",
+                "only": null,
+                "type": "C"
+            },
+            {
+                "title": "讨欠款",
+                "only": null,
+                "type": "D"
+            }
+        ],
+        "ok": "B",
+        "flag":null
+    },
+    {
+        "name": "喜",
+        "question": "‘小年’这一天，用来祭祀灶王爷的食物是？",
+        "answer": [
+            {
+                "title": "元宵",
+                "only": null,
+                "type": "A"
+            },
+            {
+                "title": "麦芽糖",
+                "only": null,
+                "type": "B"
+            },
+            {
+                "title": "八宝粥",
+                "only": null,
+                "type": "C"
+            },
+            {
+                "title": "饺子",
+                "only": null,
+                "type": "D"
+            }
+        ],
+        "ok": "B",
+        "flag":null
+    },
+    {
+        "name": "财",
+        "question": "春联有很多别称，以下哪个不是它的别称？",
+        "answer": [
+            {
+                "title": "对联",
+                "only": null,
+                "type": "A"
+            },
+            {
+                "title": "春贴",
+                "only": null,
+                "type": "B"
+            },
+            {
+                "title": "门对",
+                "only": null,
+                "type": "C"
+            },
+            {
+                "title": "喜联",
+                "only": null,
+                "type": "D"
+            }
+        ],
+        "ok": "D",
+        "flag":null
+    }
+]
